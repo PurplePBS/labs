@@ -263,7 +263,7 @@ if __name__ == "__main__":
 #    sale_household = Sale_Household('Алексей', '15.12.1995', '14:37', '2 штуки', '68р', '136р', 'Не продано')
 #    sale_household.info()
     
-
+print()
 
 
 
